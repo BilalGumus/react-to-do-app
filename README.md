@@ -4,7 +4,7 @@ Hi 👋, This is a simple to do app which is created with [ReactJS](https://reac
 
 ## Project
 
-🟢 You can check the demo hosted on heroku: https://bilalgumus-to-do-app.herokuapp.com/
+🟢 You can check the demo hosted on heroku: https://bilalgumus-react-to-do-app.pages.dev
 
 ![React To Do AppScreenshot](./src/docs/screenshot.png)
 
@@ -24,7 +24,7 @@ $ git clone https://github.com/BilalGumus/react-to-do-app.git
 In the project directory, you can run: (Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.)
 
 ```bash
-npm start
+npm install && npm start
 ```
 
 Runs the app in the development mode.
