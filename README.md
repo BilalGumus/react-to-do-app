@@ -4,7 +4,7 @@ Hi 👋, This is a simple to do app which is created with [ReactJS](https://reac
 
 ## Project
 
-🟢 You can check the demo hosted on heroku: https://bilalgumus-react-to-do-app.pages.dev
+🟢 You can check the demo hosted on heroku: https://react-to-do-app.bilalgumus.me/
 
 ![React To Do AppScreenshot](./src/docs/screenshot.png)
 
