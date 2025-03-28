@@ -4,7 +4,7 @@ Hi 👋, This is a simple to do app which is created with [ReactJS](https://reac
 
 ## Project
 
-🟢 You can check the demo at here: https://react-to-do-app.bilalgumus.co
+🟢 You can check the demo at here: https://react-to-do-app.bilalgumus.net
 
 ![React To Do AppScreenshot](./src/docs/screenshot.png)
 
